@@ -32,7 +32,7 @@
 - React Exercises [web](https://chipper-buttercream-7f67f0.netlify.app)/[code](https://github.com/sanaz-git/React/tree/main/week2/react-exercises)
 - HackYourWeather [web](https://snazzy-begonia-b736b5.netlify.app)/[code](https://github.com/sanaz-git/HackYourWeather4)
 
-##Code Along 
+## Code Along 
 - Calculator [web](https://sanaz-git.github.io/JavaScript1/Week1/homework/calculator/)/[code](https://github.com/sanaz-git/JavaScript1/tree/master/Week1/homework/calculator)
 - Rock-Paper-Scissors-Game [web](https://sanaz-git.github.io/Browsers/week2/homework/rock-paper-scissors-game/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week2/homework/rock-paper-scissors-game) 
 - Meditation App [web](https://sanaz-git.github.io/JavaScript1/week3/homework/meditation-app/index.html)/[code](https://github.com/sanaz-git/JavaScript1/tree/master/week3/homework/meditation-app)
