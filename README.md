@@ -16,8 +16,16 @@
 - Random Quote Generator [web](https://sanaz-git.github.io/Browsers/week1/homework/project/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week1/homework/project)
 - Cat Walk [web](https://sanaz-git.github.io/Browsers/week1/homework/ex5-catWalk/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week1/homework/ex5-catWalk)
 - What's The Time? [web](https://sanaz-git.github.io/Browsers/week1/homework/ex4-whatsTheTime/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week1/homework/ex4-whatsTheTime)
-- Book List [web](https://sanaz-git.github.io/Browsers/week1/homework/ex1-booklist/ex1-bookList.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week1/homework/ex1-booklist)
 - Pomodoro Clock [web](https://sanaz-git.github.io/Browsers/week2/homework/project/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week2/homework/project)
 - Rock-Paper-Scissors-Game [web](https://sanaz-git.github.io/Browsers/week2/homework/rock-paper-scissors-game/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week2/homework/rock-paper-scissors-game)
 - Tip Calculator[web](https://sanaz-git.github.io/Browsers/week3/homework/project/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week3/homework/project)
 - Book List [web](https://sanaz-git.github.io/Browsers/week3/homework/bookList/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week3/homework/bookList)
+
+## Using-APIs [(code)](https://github.com/sanaz-git/Using-APIs)
+- Dog Gallery [web](https://sanaz-git.github.io/Using-APIs/week1/homework/javascript-exercises2/dogPhotoGallery/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week1/homework/javascript-exercises2/dogPhotoGallery)
+- HackYourFuture Repository [web](https://sanaz-git.github.io/Using-APIs/week3/homework/javascript-exercises/HackYourRepo3/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/javascript-exercises/HackYourRepo3)
+- Trivia App [web](https://sanaz-git.github.io/Using-APIs/week3/homework/javascript-exercises/trivia-app/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/javascript-exercises/trivia-app)
+- BookMarker Application [web](https://sanaz-git.github.io/Using-APIs/week3/homework/bookMarker Application/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/bookMarker%20Application)
+
+
+
