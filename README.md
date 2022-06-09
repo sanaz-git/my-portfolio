@@ -20,4 +20,4 @@
 - Pomodoro Clock [web](https://sanaz-git.github.io/Browsers/week2/homework/project/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week2/homework/project)
 - Rock-Paper-Scissors-Game [web](https://sanaz-git.github.io/Browsers/week2/homework/rock-paper-scissors-game/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week2/homework/rock-paper-scissors-game)
 - Tip Calculator[web](https://sanaz-git.github.io/Browsers/week3/homework/project/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week3/homework/project)
-- Book List [web]/(https://sanaz-git.github.io/Browsers/week3/homework/bookList/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week3/homework/bookList)
+- Book List [web](https://sanaz-git.github.io/Browsers/week3/homework/bookList/index.html)/[code](https://github.com/sanaz-git/Browsers/tree/main/week3/homework/bookList)
