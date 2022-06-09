@@ -27,6 +27,10 @@
 - Trivia App [web](https://sanaz-git.github.io/Using-APIs/week3/homework/javascript-exercises/trivia-app/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/javascript-exercises/trivia-app)
 - BookMarker Application [web](https://sanaz-git.github.io/Using-APIs/week3/homework/bookMarkerApplication/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/bookMarker%20Application)
 
+## React [(code)](https://github.com/sanaz-git/React)
+- Counter [web](https://moonlit-starburst-f6322d.netlify.app)/[code](https://github.com/sanaz-git/React/tree/main/week1/Counter)
+- React Exercises [web](https://chipper-buttercream-7f67f0.netlify.app)/[code](https://github.com/sanaz-git/React/tree/main/week2/react-exercises)
+- HackYourWeather [web](https://snazzy-begonia-b736b5.netlify.app)/[code](https://github.com/sanaz-git/HackYourWeather4)
 
 
 
