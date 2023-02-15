@@ -23,7 +23,7 @@
 
 ## Using-APIs [(code)](https://github.com/sanaz-git/Using-APIs)
 - Dog Gallery [demo](https://sanaz-git.github.io/Using-APIs/week1/homework/javascript-exercises2/dogPhotoGallery/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week1/homework/javascript-exercises2/dogPhotoGallery)
-- HackYourFuture Repository [web](https://sanaz-git.github.io/Using-APIs/week3/homework/javascript-exercises/HackYourRepo3/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/javascript-exercises/HackYourRepo3)
+- HackYourFuture Repository [demo](https://sanaz-git.github.io/Using-APIs/week3/homework/javascript-exercises/HackYourRepo3/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/javascript-exercises/HackYourRepo3)
 - Trivia App [demo](https://sanaz-git.github.io/Using-APIs/week3/homework/javascript-exercises/trivia-app/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/javascript-exercises/trivia-app)
 - BookMarker Application [web](https://sanaz-git.github.io/Using-APIs/week3/homework/bookMarkerApplication/)/[code](https://github.com/sanaz-git/Using-APIs/tree/main/week3/homework/bookMarker%20Application)
 
